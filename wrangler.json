@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "cf-emby-proxy",
+  "name": "emossss",
   "main": "worker.js",
   "compatibility_date": "2025-12-28",
   "compatibility_flags": ["nodejs_compat"],
