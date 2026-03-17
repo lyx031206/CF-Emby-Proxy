@@ -1,7 +1,7 @@
 import { Hono } from 'hono'
 
 const CONFIG = {
-  UPSTREAM_URL: 'https://your-emby-server.com', // Replace with your Emby server URL
+  UPSTREAM_URL: 'https://emos.best', // Replace with your Emby server URL
   
   // [关键修复] 
   // 1. 匹配带后缀的文件
